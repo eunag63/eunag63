@@ -1,6 +1,8 @@
+
 <div align=center>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=350&section=header&text=new wisdom!&fontSize=90&animation=fadeIn" /><br><br>
 	
-### 👋🏻 Hi there 👋🏻 <br>
+###  👋🏻 Hi there 👋🏻 <br>
   I'm Euna Kim, a Full Stack Developer 🌱 <br>
   I want to be a person who gives you new wisdom ✨ <br><br>
 	
@@ -20,5 +22,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunag39@gmail.com)](mailto:eunag39@gmail.com)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunag63%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
 
