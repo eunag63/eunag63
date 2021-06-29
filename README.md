@@ -1,10 +1,10 @@
 <div align=center>
 	
-### Hi there 👋🏻 <br>
-💻  I'm a Full Stack Developer <br>
-🇰🇷  I'm working in South Korea<br><br>
+### 👋🏻 Hi there 👋🏻 <br>
+  I'm Euna Kim, a Full Stack Developer 🌱 <br>
+  I want to be a person who gives you new wisdom ✨ <br><br>
 	
-### 📌 Techs that I've used at least once<br>
+### 📚 Techs that I've used at least once 📚 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <br>
@@ -15,7 +15,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eunag63&&show_icons=true&theme=tokyonight)
 
 <br><br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bcoding-lab.tistory.com/)](https://bcoding-lab.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/TechBlog-F37440?style=flat-square&logo=Teradata&logoColor=white&link=https://bcoding-lab.tistory.com/)](https://bcoding-lab.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/51d08316113c4298ba074b067558f738)](https://www.notion.so/51d08316113c4298ba074b067558f738)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunag39@gmail.com)](mailto:eunag39@gmail.com)
   
