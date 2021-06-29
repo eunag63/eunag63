@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=350&section=header&text=new wisdom!&fontSize=90&animation=fadeIn" /><br><br>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=new wisdom!&fontSize=90&animation=fadeIn" /><br><br>
 	
 ###  👋🏻 Hi there 👋🏻 <br>
   I'm Euna Kim, a Full Stack Developer 🌱 <br>
