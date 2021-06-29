@@ -1,9 +1,9 @@
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=new wisdom!&fontSize=90&animation=fadeIn" /><br><br>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=EunaKim&fontSize=90&animation=fadeIn" /><br><br>
 	
 ###  👋🏻 Hi there 👋🏻 <br>
-  I'm Euna Kim, a Full Stack Developer 🌱 <br>
+  I'm a Full Stack Developer 🌱 <br>
   I want to be a person who gives you new wisdom ✨ <br><br>
 	
 ### 📚 Techs that I've used at least once 📚 <br>
@@ -15,15 +15,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eunag63&&show_icons=true&theme=tokyonight)
+<br>
+### •••
+<br>
 
-<br><br>
 [![Tech Blog Badge](http://img.shields.io/badge/TechBlog-F37440?style=flat-square&logo=Teradata&logoColor=white&link=https://bcoding-lab.tistory.com/)](https://bcoding-lab.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/51d08316113c4298ba074b067558f738)](https://www.notion.so/51d08316113c4298ba074b067558f738)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunag39@gmail.com)](mailto:eunag39@gmail.com)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunag63%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
- 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
 
