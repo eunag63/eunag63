@@ -4,7 +4,7 @@
 💻  I'm a Full Stack Developer <br>
 🇰🇷  I'm working in South Korea<br><br>
 	
-📌Techs that I've used at least once<br><br>
+### 📌 Techs that I've used at least once<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <br>
