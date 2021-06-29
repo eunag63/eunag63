@@ -1,8 +1,8 @@
 <div align=center>
 	
-### Hi there 👋🏻 <br><br>
-▫️ I'm a Full Stack Developer <br>
-▫️ I'm working in South Korea <br><br><br>
+### Hi there 👋🏻 <br>
+💻  I'm a Full Stack Developer <br>
+🇰🇷  I'm working in South Korea<br><br>
 	
 📌Techs that I've used at least once<br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
+<br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eunag63&&show_icons=true&theme=tokyonight)
 
 <br><br>
