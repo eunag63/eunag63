@@ -1,8 +1,8 @@
 <div align=center>
 	
 ### Hi there 👋🏻 <br><br>
-▫️ I'm a Full Stack Developer <br><br><br>
-
+▫️ I'm a Full Stack Developer <br>
+▫️ I'm working in South Korea <br><br><br>
 	
 📌Techs that I've used at least once<br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
