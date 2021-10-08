@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=EunaKim&fontSize=90&animation=fadeIn" /><br><br>
 	
 ###  👋🏻 Hi there 👋🏻 <br>
-  I'm a Full Stack Developer 🌱 <br>
+  I'm a Backend Developer 🌱 <br>
   I want to be a person who gives you new wisdom ✨ <br><br>
 	
 ### 📚 Techs that I've used at least once 📚 <br>
